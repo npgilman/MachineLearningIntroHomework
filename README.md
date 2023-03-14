@@ -1,4 +1,4 @@
-# ndividual Coding Assignment 01
+# Individual Coding Assignment 01
 <ul>
    <li>Python Fundamentals</li>
    <li>Regression</li>
