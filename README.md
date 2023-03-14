@@ -1,4 +1,4 @@
-# Intro to Machine Learning Homework 1
+# ndividual Coding Assignment 01
 <ul>
    <li>Python Fundamentals</li>
    <li>Regression</li>
