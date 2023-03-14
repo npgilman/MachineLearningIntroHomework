@@ -1,3 +1,5 @@
-# CIS4930-HW1
-Intro to Machine Learning Homework 1
-3 sections: Data Preparation, Regression, Classification
+# Intro to Machine Learning Homework 1
+<h1>1. Python Fundamentals</h1>
+<h1>2. Regression</h1>
+<h1>3. Classification</h1>
+
